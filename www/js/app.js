@@ -28,7 +28,7 @@ angular.module('IonicChatApp', ['ionic', 'chatapp.controllers', 'chatapp.service
     });
 })
 
-.constant('FBURL', 'https://ionic-chat-app.firebaseio.com/')
+.constant('FBURL', 'https://ionic-chat-thing.firebaseio.com/')
     .constant('GOOGLEKEY', '1002599169952-4uchnlc7ahm6ng4696p9tgr1adhsiqv5.apps.googleusercontent.com')
     .constant('GOOGLEAUTHSCOPE', ['email'])
 
